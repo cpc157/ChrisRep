@@ -1,4 +1,4 @@
-package Rubbish;
+package Carpets;
 
 public class Customer {
 	String Sfirstname;

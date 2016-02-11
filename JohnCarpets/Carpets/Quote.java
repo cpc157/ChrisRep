@@ -1,4 +1,4 @@
-package Rubbish;
+package Carpets;
 
 public class Quote {
 	Customer Client;
